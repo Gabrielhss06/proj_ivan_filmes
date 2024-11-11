@@ -1,0 +1,1 @@
+alter table movie add comentario varchar (200);

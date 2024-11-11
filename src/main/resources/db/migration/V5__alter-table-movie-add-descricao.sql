@@ -1,0 +1,1 @@
+alter table movie add descricao varchar (4000);
